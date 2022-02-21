@@ -3,13 +3,10 @@ var themesname = ["dark", "hc"];
 var themes_rel = "stylesheet";
 
 function toggleThemeListItem(themeid, s) {
+    $("#" + themeid + "ThemeListItem").toggleClass("active");
     $(document.body).toggleClass("gs-" + themeid);
     if (window.localStorage.getItem("gs-" + themeid) == "true" && s == 1) {
-        $("#" + themeid + "ThemeListItem").toggleClass("active");
         window.localStorage.setItem("gs-" + themeid, "false");
-    } else if (s == 1) {
-        $("#" + themeid + "ThemeListItem").toggleClass("active");
-        window.localStorage.setItem("gs-" + themeid, "true");
     } else {
         window.localStorage.setItem("gs-" + themeid, "true");
     }
