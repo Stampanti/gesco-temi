@@ -1,0 +1,368 @@
+.gs-dark .navbar {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .navbar-brand {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .dropdown-toggle {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .dropdown {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .card-body {
+    background-color: black !important;
+    color: white !important;
+}
+
+.gs-dark .card-header {
+    background-color: black !important;
+    color: white !important;
+}
+
+.gs-dark .w-100 {
+    background-color: black !important;
+    color: white !important;
+}
+
+.gs-dark .taglia {
+    background-color: black !important;
+    color: white !important;
+}
+
+.gs-dark .fixed-bottom {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .table {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .row {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .modal-content {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark #compito-svolto {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark .navbar {
+    background-color: #323234;
+    color: white;
+    border: 0px;
+}
+
+.gs-dark #famiglia_scheda {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark .fc-view-container {
+    color: white;
+    background-color: #323234;
+}
+
+.gs-dark .btn {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark .dropdown-menu {
+    background-color: #323234;
+    color: white;
+}
+.gs-dark .dropdown {
+    background-color: #323234;
+    color: white;
+}
+
+.gs-dark .tabs-schede > .nav-stacked > .active {
+    background-color: green !important;
+}
+
+.gs-dark li[role=presentation] {
+    background-color: #323234;
+    color: white;
+    border: 0px solid black !important;
+}
+
+.gs-dark .tabs-schede {
+    border: 0px solid #323234;
+    background-color: #323234 !important;
+}
+
+.gs-dark .sidebar {
+    background-color: #323234 !important;
+}
+
+.gs-dark .nav-stacked {
+    background-color: #323234 !important;
+    border: 0px;
+}
+
+.gs-dark .list-group {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .text-center {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .odd {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .even {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .col-sm-3 {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .dt-button-info {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .dt-button-info > h2 {
+    background-color: #323234 !important;
+    color: white;
+}
+
+.gs-dark .paginate_button {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .form-control {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .fc-list-heading {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .fc-list-heading-main {
+    color: #323234 !important;
+}
+
+.gs-dark .fc-list-heading-alt {
+    color: #323234 !important;
+}
+
+.gs-dark .fc-view {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .fc-list-table {
+    background-color: #323234 !important;
+    color: white !important;
+}
+
+.gs-dark .dropdown-menu a {
+    color: white !important;
+}
+
+.gs-dark .btn-default {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.gs-dark .btn-group .active {
+    background-color: rgb(0,0,80) !important;
+    color: white !important;
+}
+
+.gs-dark, .gs-dark .navbar-default{
+    background-color: #323234 !important;
+}
+.gs-dark .navbar-header a, .gs-dark .navbar-header span, .gs-dark .navbar-default a {
+    color: white !important;
+}
+
+.gs-dark li.open a {
+    color: white !important;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    background-color: transparent !important;
+}
+
+.gs-dark ul.dropdown-menu {
+    background-color: #323234 !important;
+}
+
+.gs-dark ul.dropdown-menu li:hover {
+    background-color: forestgreen !important;
+    color: white !important;
+}
+
+.gs-dark ul.dropdown-menu .active {
+    background-color: #ac1b1b !important;
+    color: white !important;
+}
+
+.gs-dark h1, .gs-dark h2, .gs-dark h3, .gs-dark h4, .gs-dark h5, .gs-dark h6, .gs-dark p, .gs-dark span, .gs-dark td {
+    color: white !important;
+}
+
+.gs-dark .fc-today {
+    background-color: rgb(0,0,80) !important;
+}
+
+.gs-dark .tooltip-inner {
+    background-color: white !important;
+    color: black !important;
+    border-bottom-color: white !important;
+}
+.gs-dark .tooltip-arrow {
+    border-bottom-color: white !important;
+}
+
+.gs-dark .tabs-schede ul {
+    border-color: transparent !important;
+}
+
+.gs-dark .tabs-schede li a {
+    color: white !important;
+    border-color: transparent !important;
+}
+
+.gs-dark .tabs-schede li {
+    background-color: #323234 !important;
+    border-color: transparent !important;
+}
+
+.gs-dark .tabs-schede li.active a {
+    background-color: #ac1212 !important;
+    border-color: transparent !important;
+}
+
+.gs-dark .tabs-schede li a:hover {
+    background-color: forestgreen !important;
+}
+
+.gs-dark .row {
+    border-color: white !important;
+}
+
+* { outline: none !important }
+
+.gs-dark .fc-time span {
+    color: black !important;
+}
+
+.gs-dark .fc-axis span {
+    color: white !important;
+}
+
+.gs-dark .tooltip-arrow {
+    border-top-color: white !important;
+}
+
+.gs-dark .list-group .list-group-item {
+    background-color: transparent !important;
+}
+
+.gs-dark .list-group .list-group-item a {
+    color: skyblue !important;
+    cursor: pointer !important;
+}
+
+.gs-dark .ui-datepicker, .gs-dark .ui-datepicker-div .ui-datepicker-header, .gs-dark .ui-datepicker-div .ui-datepicker-calendar {
+    background: none;
+    background-color: transparent !important;
+    backdrop-filter: blur(2px) !important;
+    border-color: white !important;
+}
+
+.gs-dark .iscrizione a {
+    color: skyblue !important;
+    text-decoration: none !important;
+}
+
+.gs-dark .ui-datepicker .ui-datepicker-calendar .ui-state-default {
+    background: none;
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.gs-dark .ui-datepicker .ui-datepicker-calendar .ui-state-active {
+    border: 1px solid yellow !important;
+    background-color: yellow !important;
+    color: black !important;
+}
+
+.gs-dark .dropdown-menu a:hover {
+    color: black !important;
+}
+
+.gs-dark .warning {
+    background-color: yellow !important;
+    color: black !important;
+}
+
+.gs-dark .success {
+    background-color: forestgreen !important;
+}
+
+.gs-dark .active.no-padding {
+    background-color: transparent !important;
+}
+
+.gs-dark .paginate_button a {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+.gs-dark .pagination .disabled a {
+    border-color: gray !important;
+    color: gray !important;
+}
+
+.gs-dark .pagination .active a {
+    border: 1px solid skyblue !important;
+    background-color: skyblue !important;
+    color: black !important;
+}
+
+.gs-dark .ui-datepicker .ui-datepicker-calendar .ui-state-highlight {
+    border: 1px solid skyblue !important;
+    background-color: skyblue !important;
+    color: black !important;
+}
