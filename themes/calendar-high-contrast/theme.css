@@ -1,30 +1,30 @@
-.fc-day-grid-event[style="background-color:cornflowerblue;border-color:cornflowerblue"] {
+.gs-hc .fc-day-grid-event[style="background-color:cornflowerblue;border-color:cornflowerblue"] {
     background-color: blue !important;
     border-color: blue !important;
 }
 
-.fc-day-grid-event[style="background-color:violet;border-color:violet"] {
+.gs-hc .fc-day-grid-event[style="background-color:violet;border-color:violet"] {
     background-color: red !important;
     border-color: red !important;
 }
 
-.fc-time-grid-event[style^="background-color: aquamarine; border-color: aquamarine;"] {
+.gs-hc .fc-time-grid-event[style^="background-color: aquamarine; border-color: aquamarine;"] {
     background-color: yellow !important; 
     border-color: yellow !important;
 }
 
-.fc-time-grid-event[style^="background-color: aqua; border-color: aqua;"] {
+.gs-hc .fc-time-grid-event[style^="background-color: aqua; border-color: aqua;"] {
     background-color: blue !important;
     border-color: blue !important;
     color: white !important;
 }
 
-.fc-time-grid-event[style^="background-color: violet;"] {
+.gs-hc .fc-time-grid-event[style^="background-color: violet;"] {
     background-color: red !important; 
     border-color: red !important;
     color: white !important;
 }
 
-.fc-time-grid-event[style^="background-color: green;"] * {
+.gs-hc .fc-time-grid-event[style^="background-color: green;"] * {
     color: white !important;
 }
