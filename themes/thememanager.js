@@ -24,17 +24,15 @@ var themeManager = `
 </li>
 `;
 
-document.addEventListener('DOMContentLoaded', function() {
-    for (var i = 0; i < themes.length; i++) {
-        var el = document.createElement("link");
-        el.href = themes[i];
-        el.rel = themes_rel;
-        document.head.appendChild(el);
+for (var i = 0; i < themes.length; i++) {
+    var el = document.createElement("link");
+    el.href = themes[i];
+    el.rel = themes_rel;
+    document.head.appendChild(el);
+}
+for (var j = 0; j < themes.length; j++) {
+    if (window.localStorage.getItem("gs-" + themesname[j]) == "true"){
+        toggleThemeListItem(themesname[j])
     }
-    for (var j = 0; j < themes.length; j++) {
-        if (window.localStorage.getItem("gs-" + themesname[j]) == "true"){
-            toggleThemeListItem(themesname[j])
-        }
-    }
-    $(".navbar-right").prepend($(themeManager));
-});
+}
+$(".navbar-right").prepend($(themeManager));
