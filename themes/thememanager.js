@@ -18,7 +18,7 @@ var themeManager = `
 <i class="fas fa-brush"></i> Tema <span class="caret"></span>
 </a>
 <ul class="dropdown-menu" role="menu">
-<li onclick="toggleThemeListItem('dark')" id="darkThemeListItem"><a><i class="fas fa-brush"></i>Tema scuro <span class="badge">BETA</span></a></li>
+<li onclick="toggleThemeListItem('dark')" id="darkThemeListItem"><a><i class="fas fa-brush"></i> Tema scuro <span class="badge">BETA</span></a></li>
 <li onclick="toggleThemeListItem('hc')" id="hcThemeListItem"><a><i class="fas fa-brush"></i> Tema a contrasto elevato</a></li>
 </ul>
 </li>
