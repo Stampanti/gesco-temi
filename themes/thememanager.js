@@ -30,9 +30,10 @@ for (var i = 0; i < themes.length; i++) {
     el.rel = themes_rel;
     document.head.appendChild(el);
 }
-for (var j = 0; j < themes.length; j++) {
-    if (window.localStorage.getItem("gs-" + themesname[j]) == "true"){
-        toggleThemeListItem(themesname[j])
-    }
+if (window.localStorage.getItem("gs-dark") == "true"){
+    toggleThemeListItem("dark")
+}
+if (window.localStorage.getItem("gs-hc") == "true"){
+    toggleThemeListItem("hc")
 }
 $(".navbar-right").prepend($(themeManager));
